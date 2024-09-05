@@ -4,4 +4,5 @@ const singlepostpage=()=>
         <div>singlepostpage</div>
     )
 }
+
 export default singlepostpage
